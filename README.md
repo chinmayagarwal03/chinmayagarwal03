@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chinmayagarwal03
-- 👀 I’m interested in react based projects and in problems based on different data structures
-- 🌱 I’m currently learning next.js
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning OpenCV.
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ... https://www.linkedin.com/in/chinmay-agarwal-b26b0b165/
 - 🧑‍💻 Leetode Link - https://leetcode.com/rockzzz/
  
