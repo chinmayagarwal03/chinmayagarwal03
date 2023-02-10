@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmayagarwal03
-- 🌱 I’m currently learning OpenCV.
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🌱 I’m currently developing MERN projects..
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me ... https://www.linkedin.com/in/chinmay-agarwal-b26b0b165/
 - 🧑‍💻 Leetode Link - https://leetcode.com/rockzzz/
  
