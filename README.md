@@ -82,7 +82,13 @@ Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Tech
 <a ><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="cplusplus" width="40" height="40"/></a>
 
 <br/>
-
-
+<a ><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+<!--<p align="center">
+  <img width="500" height="300" alt="Samikmalhotra's github stats" 
+          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
+</p>-->
+<img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=chinmayagarwal03&row=1&column=7&theme=darkhub&margin-w=15e" />
   
 
