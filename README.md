@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm Chinmay
 
 <br/>
-<a href="(https://www.linkedin.com/in/chinmay-agarwal-b26b0b165/)">
+<a href="https://www.linkedin.com/in/chinmay-agarwal-b26b0b165/">
   <img align="left" alt="Chinmay's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=chinmay-agarwal-b26b0b165" />
 <!--[](https://visitor-badge.glitch.me/badge?page_id=Samikmalhotra.Samikmalhotra)-->
 <br />
 
