@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I'm a member of @ECON-Thapar. Beside's programming, I enjoy football, badminton, travelling and reading novels. 
   <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->
-  <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+  <img align="right" width="720px" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 **Talking about Personal Stuffs:**
 
