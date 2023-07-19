@@ -39,11 +39,10 @@ Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Tech
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on MERN stack projects;
-- 🌱 I’m currently learning MongoDb, Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on MERN stack projects;
+- 🌱 I’m currently trying to improve my ratings on CodeChef/codeforces.
 - 🤔 I’m looking for help with DSA and competitive programming;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
+- ⚡️ Fun Fact: There is something exciting coming in a month, stay tuned
 - 📫 How to reach me: cagarwal_be20@thapar.edu, chinmayagarwal4@gmail.com .
 
 
