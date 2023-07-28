@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I'm a member of @ECON-Thapar. Beside's programming, I enjoy football, badminton, travelling and reading novels. 
+Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Technology. I am a MERN STACK DEVELOPER from India, currently, I am working on a project for the finals of the Kavach Hackathon 2023.
   <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->
   <img align="right" width="720px" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
