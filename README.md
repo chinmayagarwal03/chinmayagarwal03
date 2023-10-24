@@ -46,13 +46,9 @@ Hi, I'm Chinmay Agarwal, a sophomore at Thapar Institute of Engineering and Tech
 - 📫 How to reach me: cagarwal_be20@thapar.edu, chinmayagarwal4@gmail.com .
 
 
-
-<!--![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)-->
 <br>
 <br>
 
-<img width="500" height="300" align="right" alt="Chinmayagarwal's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=chinmayagarwal03&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 
 
 **Languages and Tools:**  
